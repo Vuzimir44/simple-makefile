@@ -12,7 +12,7 @@ RM	=	rm -f
 
 OBJ	=	$(SRC:.c=.o)
 
-CFLAGS	=	-O2 -Wall -Wextra -Werror
+CFLAGS	=	-O2 -W -Wall -Wextra -Werror
 CFLAGS	+=	-I./hds/
 
 all	:	$(NAME)
