@@ -1,5 +1,5 @@
 ##
-## Minimal C Makefile
+## Simple C Makefile
 ##
 
 SRC	=	./src/main.c
