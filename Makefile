@@ -1,4 +1,4 @@
-##
+## D
 ## Simple C Makefile
 ##
 
